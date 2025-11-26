@@ -18,16 +18,20 @@ Este é um script simples em Python que consome a API da [WeatherAPI](https://ww
 
 Você precisa ter o Python instalado em sua máquina. Além disso, é necessário instalar a biblioteca `requests`.
 
-```bash
+
 pip install requests
 
+
 ## API KEY:
-```bash
+
 api_key = "SUA_CHAVE_AQUI"
 
+
 ## Executar:
-```bash
+
 python nome_do_arquivo.py
 
+
 ## Saida:
-<img width="478" height="27" alt="image" src="https://github.com/user-attachments/assets/9a621aa6-ae53-4eb9-82cd-640f782cc9f7" />
+
+<img width="478" height="27" alt="image" src="https://github.com/user-attachments/assets/14b736f5-1654-490b-9bba-d825e71bf683" />
